@@ -380,6 +380,8 @@ public class Caller {
 						
 			
 					//Reporting
+						
+						//Standarrf
 					     CF.close_browser(webActionKeywordsTest.browser);
 					     
 					     if (!(Caller.TotalFailed > 0)){
